@@ -1,0 +1,9 @@
+core/*
+libraries/*
+preproc/*
+sketch/*
+build.options.json
+geracao_de_hex_files-V1.ino.eep
+geracao_de_hex_files-V1.ino.with_bootloader.hex
+geracao_de_hex_files-V1.ino.elf
+includes.cache
