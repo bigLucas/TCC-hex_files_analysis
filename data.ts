@@ -124,3 +124,6 @@ for (let i=0; i<NEW_DATA.length; i++) {
     }
 }
 console.log(diferences);
+diferences.map((element) => {
+    console.log(`new FlashMemoryHex(${element.index}, 0x${element.newData}),`);
+});
