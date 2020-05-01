@@ -52,5 +52,3 @@ export class HexFile {
         }
     }
 }
-
-HexFile.writeDataFromHexFile();
