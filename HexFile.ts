@@ -52,3 +52,5 @@ export class HexFile {
         }
     }
 }
+
+HexFile.writeDataFromHexFile('geracao_de_hex_files-V1.ino.hex');
